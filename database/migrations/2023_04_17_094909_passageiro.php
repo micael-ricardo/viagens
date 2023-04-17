@@ -17,7 +17,6 @@ return new class extends Migration
             $table->char('rg', 45);
             $table->char('cpf', 11)->unique();
             $table->char('telefone', 15);
-            $table->dateTime('data_cadastro', $precision = 0);
             $table->timestamps();
         });
     }

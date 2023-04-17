@@ -12,9 +12,7 @@ class VoarController extends Controller
      */
     public function index()
     {
-        return "index";
-    //     $teste = Passageiro::all();
-    //    return dd($teste);
+       return view('home');
     }
 
     /**
