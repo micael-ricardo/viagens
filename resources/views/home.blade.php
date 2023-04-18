@@ -84,15 +84,15 @@
                     </div>
                     <div class="form-group col-lg-6 align-items-start flex-column pt-lg-4">
                         <div class="form-check form-switch">
-                            <input class="form-check-input align-self-center" type="checkbox" id="directFlights">
-                            <label class="form-check-label d-inline-flex align-self-center" for="directFlights">Voos
+                            <input class="form-check-input align-self-center" type="checkbox" id="vooDireto">
+                            <label class="form-check-label d-inline-flex align-self-center" for="vooDireto">Voos
                                 Direto</label>
                         </div>
                     </div>
                 </div>
                 <div class="row mt-2">
                     <div class="text-left col-auto">
-                        <button type="submit" class="btn btn-primary"> Pesquisar voos</button>
+                      <button type="submit" class="btn btn-primary" id="searchBtn"> Pesquisar voos</button>
                     </div>
                 </div>
             </form>
