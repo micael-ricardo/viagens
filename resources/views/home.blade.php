@@ -10,13 +10,13 @@
                 <div class="row">
                     <div class="form-group col-md align-items-start flex-column">
                         <label for="origin" class="d-inline-flex"> De </label>
-                        <input type="text" placeholder="Cidade ou Aeroporto" class="form-control" id="origin"
-                            name="origin" required>
+                        <input type="text" placeholder="Cidade" class="form-control" id="origin" name="origin"
+                            required>
                     </div>
                     <div class="form-group col-md align-items-start flex-column">
                         <label for="partida" class="d-inline-flex"> Para </label>
-                        <input type="text" placeholder="Cidade ou Aeroporto" class="form-control" id="partida"
-                            name="partida" required>
+                        <input type="text" placeholder="Cidade" class="form-control" id="partida" name="partida"
+                            required>
                     </div>
                 </div>
                 <div class="row">
